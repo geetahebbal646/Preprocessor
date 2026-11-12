@@ -18,5 +18,4 @@ This repository contains a lightweight, custom-built C preprocessor. Designed as
 
 ## Hardware & Circuitry
 
-**N/A (Strictly Software)**
 This is a 100% software-based systems programming tool written in standard C. It manipulates text files at the software level and does not require any microcontrollers, physical circuits, or hardware implementation.
